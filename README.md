@@ -1,4 +1,4 @@
-# Türkiye'deki En Bok Bankalar Sıralı Tam Liste
+# Türkiye'deki En Boktan En Kötü Bankalar Sıralı Tam Liste
  
 Bu listesi Türkiye Cumhuriyetinde faliyet gösteren bddk internet sitesinde yer alan [bankalar listesinde](https://www.bddk.org.tr/Kurulus/Liste/77) yer alan bankaların bir kısmıyla çalışmış bir developer'in bankaların sorun çözme becerisi, personel yetkinliği ve olaylara tepkisi üzerinden yaptığı sıralamadır.  Birinci sırada olan banka **EN BOKTAN BANKADIR.**
 ## Bu listeyi Neden hazırladım? 
